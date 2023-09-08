@@ -1,0 +1,21 @@
+{
+  "name": "hani-dark-pro",
+  "displayName": "Hani Dark Pro",
+  "description": "Dark theme based on Atom One Dark",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "HFA Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/HFA Theme-color-theme.json"
+      }
+    ]
+  }
+}
