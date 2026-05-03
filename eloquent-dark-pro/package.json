@@ -1,8 +1,8 @@
 {
-  "name": "hani-dark-pro",
-  "displayName": "HFA Dark Pro",
+  "name": "eloquent-dark-pro",
+  "displayName": "Eloquent Dark Pro",
   "description": "A refined dark theme based on Atom One Dark — tuned for long coding sessions, with carefully balanced contrast for JS/TS, JSX, PHP, Blade, and modern web stacks.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "eloquentsoftware",
   "license": "MIT",
   "icon": "images/icon.png",
@@ -22,12 +22,14 @@
     "dark theme",
     "one dark",
     "atom",
-    "hfa",
+    "eloquent",
     "php",
+    "laravel",
     "blade",
     "react",
     "jsx",
-    "tsx"
+    "tsx",
+    "typescript"
   ],
   "homepage": "https://github.com/EloquentSoftware/vscode-theme-dark-pro",
   "repository": {
@@ -40,9 +42,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "HFA Dark Pro",
+        "label": "Eloquent Dark Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/HFA Theme-color-theme.json"
+        "path": "./themes/eloquent-dark-pro-color-theme.json"
       }
     ]
   }

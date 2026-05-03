@@ -1,18 +1,23 @@
-# HFA Dark Pro
+# Eloquent Dark Pro
 
 A refined dark theme for Visual Studio Code, based on **Atom One Dark** with enhancements for better readability and aesthetics during long coding sessions.
 
 Carefully tuned for **JavaScript / TypeScript, React (JSX/TSX), PHP, Blade, HTML, CSS, and Tailwind** workflows.
 
-![HFA Dark Pro Preview](https://raw.githubusercontent.com/EloquentSoftware/vscode-theme-dark-pro/master/screenshots/features-collective.png)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/eloquentsoftware.eloquent-dark-pro?label=marketplace&color=111111)](https://marketplace.visualstudio.com/items?itemName=eloquentsoftware.eloquent-dark-pro)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/eloquentsoftware.eloquent-dark-pro?color=61afef)](https://marketplace.visualstudio.com/items?itemName=eloquentsoftware.eloquent-dark-pro)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/eloquentsoftware.eloquent-dark-pro?color=98c379)](https://marketplace.visualstudio.com/items?itemName=eloquentsoftware.eloquent-dark-pro&ssr=false#review-details)
+[![License](https://img.shields.io/badge/license-MIT-c678dd)](LICENSE)
+
+![Eloquent Dark Pro Preview](https://raw.githubusercontent.com/EloquentSoftware/vscode-theme-dark-pro/master/screenshots/features-collective.png)
 
 ## Install
 
 1. Open **Visual Studio Code**
 2. Open the Extensions panel (`Ctrl+Shift+X` / `Cmd+Shift+X`)
-3. Search for **HFA Dark Pro**
+3. Search for **Eloquent Dark Pro**
 4. Click **Install**
-5. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Preferences: Color Theme** → select **HFA Dark Pro**
+5. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`) → **Preferences: Color Theme** → select **Eloquent Dark Pro**
 
 ## Screenshots
 
